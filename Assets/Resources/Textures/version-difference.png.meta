@@ -1,0 +1,3142 @@
+fileFormatVersion: 2
+guid: 29301104a6afde54b860eea1aa2ece7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5829806918571046999
+    second: version-difference_0
+  - first:
+      213: -3256396881546800611
+    second: version-difference_1
+  - first:
+      213: -7952534116653852916
+    second: version-difference_2
+  - first:
+      213: 8355383830282966323
+    second: version-difference_3
+  - first:
+      213: 210148457415273357
+    second: version-difference_4
+  - first:
+      213: -7145651900824308942
+    second: version-difference_5
+  - first:
+      213: 7693524196525310993
+    second: version-difference_6
+  - first:
+      213: -1173018301393717377
+    second: version-difference_7
+  - first:
+      213: 2106616699658603243
+    second: version-difference_8
+  - first:
+      213: -605681585969011678
+    second: version-difference_9
+  - first:
+      213: -814903155234844052
+    second: version-difference_10
+  - first:
+      213: -2085559568444491457
+    second: version-difference_11
+  - first:
+      213: -1582395608883428966
+    second: version-difference_12
+  - first:
+      213: 8725024234508295265
+    second: version-difference_13
+  - first:
+      213: 5278897266059958478
+    second: version-difference_14
+  - first:
+      213: -4626886112882942507
+    second: version-difference_15
+  - first:
+      213: 156711919627638477
+    second: version-difference_16
+  - first:
+      213: 3275678466825579784
+    second: version-difference_17
+  - first:
+      213: -4393520631893499564
+    second: version-difference_18
+  - first:
+      213: 2569871698506356903
+    second: version-difference_19
+  - first:
+      213: 634354705669708994
+    second: version-difference_20
+  - first:
+      213: 2661411714984344993
+    second: version-difference_21
+  - first:
+      213: -3189853753121635222
+    second: version-difference_22
+  - first:
+      213: -3192958308783750224
+    second: version-difference_23
+  - first:
+      213: -8204055590246817302
+    second: version-difference_24
+  - first:
+      213: -4457474658146762454
+    second: version-difference_25
+  - first:
+      213: 4589730194986726425
+    second: version-difference_26
+  - first:
+      213: -613980035545191681
+    second: version-difference_27
+  - first:
+      213: -1302594521442359807
+    second: version-difference_28
+  - first:
+      213: -9076241617075543371
+    second: version-difference_29
+  - first:
+      213: -9054973171195859229
+    second: version-difference_30
+  - first:
+      213: 52061080306620952
+    second: version-difference_31
+  - first:
+      213: 4341379355002529597
+    second: version-difference_32
+  - first:
+      213: -4203619090451415448
+    second: version-difference_33
+  - first:
+      213: 6009140014354633711
+    second: version-difference_34
+  - first:
+      213: -1543726137376315562
+    second: version-difference_35
+  - first:
+      213: 2893761349240853845
+    second: version-difference_36
+  - first:
+      213: 3514307980850675967
+    second: version-difference_37
+  - first:
+      213: -8514677404856298382
+    second: version-difference_38
+  - first:
+      213: 603910221188100021
+    second: version-difference_39
+  - first:
+      213: -299069973325266248
+    second: version-difference_40
+  - first:
+      213: -7846020670051474515
+    second: version-difference_41
+  - first:
+      213: 6398898777955678755
+    second: version-difference_42
+  - first:
+      213: -3115726476792437796
+    second: version-difference_43
+  - first:
+      213: -5285535166221332290
+    second: version-difference_44
+  - first:
+      213: -4350616054559495012
+    second: version-difference_45
+  - first:
+      213: 6505892311377649371
+    second: version-difference_46
+  - first:
+      213: 5847861460334490490
+    second: version-difference_47
+  - first:
+      213: -1120931589915729102
+    second: version-difference_48
+  - first:
+      213: -8228619071994092925
+    second: version-difference_49
+  - first:
+      213: -3456278894961373084
+    second: version-difference_50
+  - first:
+      213: -6367538047502414276
+    second: version-difference_51
+  - first:
+      213: -2085159998097752191
+    second: version-difference_52
+  - first:
+      213: 1946719878179455452
+    second: version-difference_53
+  - first:
+      213: -1704238888237400820
+    second: version-difference_54
+  - first:
+      213: -6734400686727854673
+    second: version-difference_55
+  - first:
+      213: -1488704735861827660
+    second: version-difference_56
+  - first:
+      213: -9032448894950084942
+    second: version-difference_57
+  - first:
+      213: 1473796661682410851
+    second: version-difference_58
+  - first:
+      213: 1160642113086221747
+    second: version-difference_59
+  - first:
+      213: -2159427809623035007
+    second: version-difference_60
+  - first:
+      213: 4091150222949152270
+    second: version-difference_61
+  - first:
+      213: 7786148131868531961
+    second: version-difference_62
+  - first:
+      213: -2955770609077857406
+    second: version-difference_63
+  - first:
+      213: -6350235937341891204
+    second: version-difference_64
+  - first:
+      213: 5379094173367797219
+    second: version-difference_65
+  - first:
+      213: -2805666518920005555
+    second: version-difference_66
+  - first:
+      213: 1487896463994546295
+    second: version-difference_67
+  - first:
+      213: 4393395950011707409
+    second: version-difference_68
+  - first:
+      213: -5061332200337671854
+    second: version-difference_69
+  - first:
+      213: 8727274620635265587
+    second: version-difference_70
+  - first:
+      213: -3027951229872563102
+    second: version-difference_71
+  - first:
+      213: -5268400560219062250
+    second: version-difference_72
+  - first:
+      213: -6249030849482860482
+    second: version-difference_73
+  - first:
+      213: -597856478614429563
+    second: version-difference_74
+  - first:
+      213: 7457711614314781874
+    second: version-difference_75
+  - first:
+      213: 5371090637969344069
+    second: version-difference_76
+  - first:
+      213: -6952873773120615493
+    second: version-difference_77
+  - first:
+      213: -1060664147003504003
+    second: version-difference_78
+  - first:
+      213: 6554982883426671557
+    second: version-difference_79
+  - first:
+      213: 2645867260359695467
+    second: version-difference_80
+  - first:
+      213: 5411417749155211256
+    second: version-difference_81
+  - first:
+      213: 5145636053250252780
+    second: version-difference_82
+  - first:
+      213: 887550902745172691
+    second: version-difference_83
+  - first:
+      213: -9107090438771610163
+    second: version-difference_84
+  - first:
+      213: -9054201132918692521
+    second: version-difference_85
+  - first:
+      213: -5942087125424602865
+    second: version-difference_86
+  - first:
+      213: 6782616557159118820
+    second: version-difference_87
+  - first:
+      213: -3244772672138687840
+    second: version-difference_88
+  - first:
+      213: 3335905426689503598
+    second: version-difference_89
+  - first:
+      213: -3068876241672435545
+    second: version-difference_90
+  - first:
+      213: -7601343777600554371
+    second: version-difference_91
+  - first:
+      213: -8191057389534379630
+    second: version-difference_92
+  - first:
+      213: -5173530262765013041
+    second: version-difference_93
+  - first:
+      213: 7812179639134109107
+    second: version-difference_94
+  - first:
+      213: 4997316217874304306
+    second: version-difference_95
+  - first:
+      213: -359456899833307458
+    second: version-difference_96
+  - first:
+      213: -950394425426475924
+    second: version-difference_97
+  - first:
+      213: 7892558158974183585
+    second: version-difference_98
+  - first:
+      213: -7900278162482802805
+    second: version-difference_99
+  - first:
+      213: 5558270442900606384
+    second: version-difference_100
+  - first:
+      213: -5966913359946072202
+    second: version-difference_101
+  - first:
+      213: -8508279067201958983
+    second: version-difference_102
+  - first:
+      213: 1031649558253854217
+    second: version-difference_103
+  - first:
+      213: 6216828835163059750
+    second: version-difference_104
+  - first:
+      213: 8659446178901740406
+    second: version-difference_105
+  - first:
+      213: 4068357930407833627
+    second: version-difference_106
+  - first:
+      213: -8338804182261639536
+    second: version-difference_107
+  - first:
+      213: 1814561831259602867
+    second: version-difference_108
+  - first:
+      213: 6284148334993579480
+    second: version-difference_109
+  - first:
+      213: -435440280654735961
+    second: version-difference_110
+  - first:
+      213: -7916484035605515542
+    second: version-difference_111
+  - first:
+      213: -7690997596874636182
+    second: version-difference_112
+  - first:
+      213: 6292094986920754533
+    second: version-difference_113
+  - first:
+      213: -4196505903885803073
+    second: version-difference_114
+  - first:
+      213: -5241677823840322677
+    second: version-difference_115
+  - first:
+      213: -3721710927922995923
+    second: version-difference_116
+  - first:
+      213: -4150210562265153570
+    second: version-difference_117
+  - first:
+      213: -6126047287034343045
+    second: version-difference_118
+  - first:
+      213: -131835317503068768
+    second: version-difference_119
+  - first:
+      213: -2454080657420824009
+    second: version-difference_120
+  - first:
+      213: 6146101928140546820
+    second: version-difference_121
+  - first:
+      213: -649449387977917084
+    second: version-difference_122
+  - first:
+      213: -6684021275318019819
+    second: version-difference_123
+  - first:
+      213: -3293206229307157664
+    second: version-difference_124
+  - first:
+      213: -9148925724417357875
+    second: version-difference_125
+  - first:
+      213: 5012725370004607365
+    second: version-difference_126
+  - first:
+      213: -4249973105137426889
+    second: version-difference_127
+  - first:
+      213: -7798625709879427755
+    second: version-difference_128
+  - first:
+      213: -6250802723422469413
+    second: version-difference_129
+  - first:
+      213: 1029829385707332264
+    second: version-difference_130
+  - first:
+      213: 62928081219537636
+    second: version-difference_131
+  - first:
+      213: 8292130704802256160
+    second: version-difference_132
+  - first:
+      213: 8472449516916459149
+    second: version-difference_133
+  - first:
+      213: -8584961941814643555
+    second: version-difference_134
+  - first:
+      213: 1551399780974902694
+    second: version-difference_135
+  - first:
+      213: -9083608016730835425
+    second: version-difference_136
+  - first:
+      213: 1800812601186370011
+    second: version-difference_137
+  - first:
+      213: -979612433670590382
+    second: version-difference_138
+  - first:
+      213: 1630105585716622978
+    second: version-difference_139
+  - first:
+      213: 6800567822995005319
+    second: version-difference_140
+  - first:
+      213: 5090503183257143904
+    second: version-difference_141
+  - first:
+      213: 57595236720679941
+    second: version-difference_142
+  - first:
+      213: -1248107485177911544
+    second: version-difference_143
+  - first:
+      213: 5510203027863922156
+    second: version-difference_144
+  - first:
+      213: 6146027291325030037
+    second: version-difference_145
+  - first:
+      213: -7601755426366016226
+    second: version-difference_146
+  - first:
+      213: 7724709371529198263
+    second: version-difference_147
+  - first:
+      213: -5859461726239724587
+    second: version-difference_148
+  - first:
+      213: -9094842507754975567
+    second: version-difference_149
+  - first:
+      213: -3493177070147448320
+    second: version-difference_150
+  - first:
+      213: 942248916874531055
+    second: version-difference_151
+  - first:
+      213: -5849944909851598269
+    second: version-difference_152
+  - first:
+      213: 4334540966554434695
+    second: version-difference_153
+  - first:
+      213: 2763589198908294002
+    second: version-difference_154
+  - first:
+      213: 4754976216204380956
+    second: version-difference_155
+  - first:
+      213: 909256842090101883
+    second: version-difference_156
+  - first:
+      213: 9133153487351831265
+    second: version-difference_157
+  - first:
+      213: 6226625281255570781
+    second: version-difference_158
+  - first:
+      213: 78370361655791918
+    second: version-difference_159
+  - first:
+      213: -5422161484930000081
+    second: version-difference_160
+  - first:
+      213: -8962952983453124114
+    second: version-difference_161
+  - first:
+      213: 7509821385830666315
+    second: version-difference_162
+  - first:
+      213: -2593287230774253886
+    second: version-difference_163
+  - first:
+      213: -1245476284080179923
+    second: version-difference_164
+  - first:
+      213: -1142819992867073159
+    second: version-difference_165
+  - first:
+      213: 2309994449093788081
+    second: version-difference_166
+  - first:
+      213: -3259343290789868564
+    second: version-difference_167
+  - first:
+      213: -2177314070884505055
+    second: version-difference_168
+  - first:
+      213: 1580594510417740451
+    second: version-difference_169
+  - first:
+      213: -6410150512871139244
+    second: version-difference_170
+  - first:
+      213: 3370729890801648706
+    second: version-difference_171
+  - first:
+      213: -1416172299810955278
+    second: version-difference_172
+  - first:
+      213: -6164644164851200221
+    second: version-difference_173
+  - first:
+      213: 8440235564239999810
+    second: version-difference_174
+  - first:
+      213: -7468058683727170173
+    second: version-difference_175
+  - first:
+      213: 2652279260956501994
+    second: version-difference_176
+  - first:
+      213: -4258417998781528075
+    second: version-difference_177
+  - first:
+      213: -7987570227012050229
+    second: version-difference_178
+  - first:
+      213: 4869044982126156935
+    second: version-difference_179
+  - first:
+      213: 7325787081210688573
+    second: version-difference_180
+  - first:
+      213: -1344333640550114878
+    second: version-difference_181
+  - first:
+      213: -5599473833576377595
+    second: version-difference_182
+  - first:
+      213: 7632164870157644051
+    second: version-difference_183
+  - first:
+      213: 3090235565949863079
+    second: version-difference_184
+  - first:
+      213: 5466903134903744694
+    second: version-difference_185
+  - first:
+      213: 8315025996365452561
+    second: version-difference_186
+  - first:
+      213: -2748483936863214556
+    second: version-difference_187
+  - first:
+      213: -5039491954608006844
+    second: version-difference_188
+  - first:
+      213: -7711282857819144691
+    second: version-difference_189
+  - first:
+      213: 6669128395634571933
+    second: version-difference_190
+  - first:
+      213: -1587865271216271762
+    second: version-difference_191
+  - first:
+      213: 5200881609152066956
+    second: version-difference_192
+  - first:
+      213: -1100132971596372465
+    second: version-difference_193
+  - first:
+      213: -1813314098369811207
+    second: version-difference_194
+  - first:
+      213: 2481391742645605946
+    second: version-difference_195
+  - first:
+      213: -3828451806359215240
+    second: version-difference_196
+  - first:
+      213: -4366345648995797374
+    second: version-difference_197
+  - first:
+      213: -8028947417737407801
+    second: version-difference_198
+  - first:
+      213: -7530215082826435942
+    second: version-difference_199
+  - first:
+      213: -4810625348702067246
+    second: version-difference_200
+  - first:
+      213: 860294207116676606
+    second: version-difference_201
+  - first:
+      213: -7131694491763447163
+    second: version-difference_202
+  - first:
+      213: -4532859094338173336
+    second: version-difference_203
+  - first:
+      213: 7711533157383638862
+    second: version-difference_204
+  - first:
+      213: 7695221051878750452
+    second: version-difference_205
+  - first:
+      213: 2239388128165529116
+    second: version-difference_206
+  - first:
+      213: 5798819639877900650
+    second: version-difference_207
+  - first:
+      213: -3015876872676317507
+    second: version-difference_208
+  - first:
+      213: -933186390527417529
+    second: version-difference_209
+  - first:
+      213: -2161620278603045197
+    second: version-difference_210
+  - first:
+      213: 3256691049375734448
+    second: version-difference_211
+  - first:
+      213: -5913270377602964192
+    second: version-difference_212
+  - first:
+      213: 7847756303803895881
+    second: version-difference_213
+  - first:
+      213: 8679225097539562357
+    second: version-difference_214
+  - first:
+      213: -4492044334988801466
+    second: version-difference_215
+  - first:
+      213: 5477591319195965523
+    second: version-difference_216
+  - first:
+      213: 4565180301552586283
+    second: version-difference_217
+  - first:
+      213: 8499861456603605932
+    second: version-difference_218
+  - first:
+      213: -814905513787170252
+    second: version-difference_219
+  - first:
+      213: -4596476491075825395
+    second: version-difference_220
+  - first:
+      213: -2780803195641472114
+    second: version-difference_221
+  - first:
+      213: 4683819868514833237
+    second: version-difference_222
+  - first:
+      213: -6401168091347920937
+    second: version-difference_223
+  - first:
+      213: 4683664175981399848
+    second: version-difference_224
+  - first:
+      213: 673705326633154718
+    second: version-difference_225
+  - first:
+      213: 868704264913245530
+    second: version-difference_226
+  - first:
+      213: 6339381341473289509
+    second: version-difference_227
+  - first:
+      213: -7670399511805905034
+    second: version-difference_228
+  - first:
+      213: 1819176950740051894
+    second: version-difference_229
+  - first:
+      213: 6370995412334030056
+    second: version-difference_230
+  - first:
+      213: 2100134776846516924
+    second: version-difference_231
+  - first:
+      213: -5136209359713265858
+    second: version-difference_232
+  - first:
+      213: 8009989309010251194
+    second: version-difference_233
+  - first:
+      213: 7749515242093549001
+    second: version-difference_234
+  - first:
+      213: 7414377889437105986
+    second: version-difference_235
+  - first:
+      213: 7526285368677704002
+    second: version-difference_236
+  - first:
+      213: -6188671687669888966
+    second: version-difference_237
+  - first:
+      213: 2342356346596813621
+    second: version-difference_238
+  - first:
+      213: -7557794222380918672
+    second: version-difference_239
+  - first:
+      213: -1539609731231727175
+    second: version-difference_240
+  - first:
+      213: 2014959700016109124
+    second: version-difference_241
+  - first:
+      213: -565959641259077622
+    second: version-difference_242
+  - first:
+      213: -2485563196207460157
+    second: version-difference_243
+  - first:
+      213: 1465633790070474679
+    second: version-difference_244
+  - first:
+      213: -9213346181528966545
+    second: version-difference_245
+  - first:
+      213: 4279828500365335283
+    second: version-difference_246
+  - first:
+      213: -8897750823227381149
+    second: version-difference_247
+  - first:
+      213: 1408935450374351378
+    second: version-difference_248
+  - first:
+      213: 4220263497170599971
+    second: version-difference_249
+  - first:
+      213: -2946463305694067209
+    second: version-difference_250
+  - first:
+      213: 7000276106085245921
+    second: version-difference_251
+  - first:
+      213: -2665849346723765837
+    second: version-difference_252
+  - first:
+      213: -7845182538079918698
+    second: version-difference_253
+  - first:
+      213: -7402718008014766498
+    second: version-difference_254
+  - first:
+      213: 8325646332898298860
+    second: version-difference_255
+  - first:
+      213: 3144093270304473916
+    second: version-difference_256
+  - first:
+      213: 3028006406187740350
+    second: version-difference_257
+  - first:
+      213: -9186723350838950685
+    second: version-difference_258
+  - first:
+      213: -1029708540918520383
+    second: version-difference_259
+  - first:
+      213: -8032703913597059189
+    second: version-difference_260
+  - first:
+      213: -36529529807692431
+    second: version-difference_261
+  - first:
+      213: 896611069898470332
+    second: version-difference_262
+  - first:
+      213: 8917126639809852538
+    second: version-difference_263
+  - first:
+      213: -21643024515461957
+    second: version-difference_264
+  - first:
+      213: 7956732050497695486
+    second: version-difference_265
+  - first:
+      213: -8326841275391205360
+    second: version-difference_266
+  - first:
+      213: 5485852059358503326
+    second: version-difference_267
+  - first:
+      213: 2270707914748110316
+    second: version-difference_268
+  - first:
+      213: 7487631997201794708
+    second: version-difference_269
+  - first:
+      213: 899101115634060027
+    second: version-difference_270
+  - first:
+      213: -3195193057311953202
+    second: version-difference_271
+  - first:
+      213: 5564307836354543248
+    second: version-difference_272
+  - first:
+      213: 8226822484412520594
+    second: version-difference_273
+  - first:
+      213: -6689551996359729192
+    second: version-difference_274
+  - first:
+      213: -1500515537901207822
+    second: version-difference_275
+  - first:
+      213: -8331701316159488110
+    second: version-difference_276
+  - first:
+      213: -78940056117056837
+    second: version-difference_277
+  - first:
+      213: -1036598886978937459
+    second: version-difference_278
+  - first:
+      213: -7038716799684473223
+    second: version-difference_279
+  - first:
+      213: 3561594562688768343
+    second: version-difference_280
+  - first:
+      213: -8457865056364322829
+    second: version-difference_281
+  - first:
+      213: 7978197622670303046
+    second: version-difference_282
+  - first:
+      213: 6819863844876171983
+    second: version-difference_283
+  - first:
+      213: -3703102851821855509
+    second: version-difference_284
+  - first:
+      213: -7937448787345582464
+    second: version-difference_285
+  - first:
+      213: -6921168307792250660
+    second: version-difference_286
+  - first:
+      213: -5366394964055918101
+    second: version-difference_287
+  - first:
+      213: 2056198523862791223
+    second: version-difference_288
+  - first:
+      213: -1905888908545339291
+    second: version-difference_289
+  - first:
+      213: -5754565895350010184
+    second: version-difference_290
+  - first:
+      213: -7021975876095874866
+    second: version-difference_291
+  - first:
+      213: -4345775358706700511
+    second: version-difference_292
+  - first:
+      213: -2848785089280179654
+    second: version-difference_293
+  - first:
+      213: 3070889969865334451
+    second: version-difference_294
+  - first:
+      213: 8872592177650856348
+    second: version-difference_295
+  - first:
+      213: 375256907696963629
+    second: version-difference_296
+  - first:
+      213: 7106173493774149685
+    second: version-difference_297
+  - first:
+      213: 5450241773414811438
+    second: version-difference_298
+  - first:
+      213: -2302208150341380909
+    second: version-difference_299
+  - first:
+      213: 1821135665851295350
+    second: version-difference_300
+  - first:
+      213: -7196668519851500155
+    second: version-difference_301
+  - first:
+      213: 7176748132880157141
+    second: version-difference_302
+  - first:
+      213: 1265553849183174749
+    second: version-difference_303
+  - first:
+      213: -7107787955092422516
+    second: version-difference_304
+  - first:
+      213: 8933301880957323820
+    second: version-difference_305
+  - first:
+      213: 7542022886542490482
+    second: version-difference_306
+  - first:
+      213: -7031596866995122422
+    second: version-difference_307
+  - first:
+      213: -639833538614597975
+    second: version-difference_308
+  - first:
+      213: 1398603292853940413
+    second: version-difference_309
+  - first:
+      213: -3151769136310873359
+    second: version-difference_310
+  - first:
+      213: 1284768847915218033
+    second: version-difference_311
+  - first:
+      213: -3753215495522376807
+    second: version-difference_312
+  - first:
+      213: 4691685848761427583
+    second: version-difference_313
+  - first:
+      213: 637859790311863800
+    second: version-difference_314
+  - first:
+      213: 2393877246926354699
+    second: version-difference_315
+  - first:
+      213: 3604999303183822531
+    second: version-difference_316
+  - first:
+      213: 8200963315067843291
+    second: version-difference_317
+  - first:
+      213: 5797515404034178819
+    second: version-difference_318
+  - first:
+      213: 7990017174113345223
+    second: version-difference_319
+  - first:
+      213: -1529731408041473031
+    second: version-difference_320
+  - first:
+      213: 3273239833617915884
+    second: version-difference_321
+  - first:
+      213: -1684167251034590314
+    second: version-difference_322
+  - first:
+      213: 1386885132143935029
+    second: version-difference_323
+  - first:
+      213: 3772922469168199581
+    second: version-difference_324
+  - first:
+      213: -6938490289185295715
+    second: version-difference_325
+  - first:
+      213: 202003994239905912
+    second: version-difference_326
+  - first:
+      213: 7891231399357128812
+    second: version-difference_327
+  - first:
+      213: 5467027710649740135
+    second: version-difference_328
+  - first:
+      213: -8190093639590926398
+    second: version-difference_329
+  - first:
+      213: 4055688997091354519
+    second: version-difference_330
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: version-difference_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad9ec86572efa14cb1cb4d681982400
+      internalID: 5829806918571046999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320b04394155cb54ab777331d3617080
+      internalID: -3256396881546800611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b24c0ac98fbe04fa0f634f1132535d
+      internalID: -7952534116653852916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e315e4ad98efcd41a42386707063ec2
+      internalID: 8355383830282966323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ae313ab81a11140b3ca091a68a8fbc
+      internalID: 210148457415273357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf0fa7efa5a6e458fdda4686a8a6bd
+      internalID: -7145651900824308942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f73931078de83947bffe6a83d27911b
+      internalID: 7693524196525310993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bef6e58f1808b4590e77de2b2d9d44
+      internalID: -1173018301393717377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bea25f4c3518a4687d1563d9f02d07
+      internalID: 2106616699658603243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ce07a556cf3ec408124068e2f4509f
+      internalID: -605681585969011678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bee32b3cdcfb1439b7fabd79c4f886
+      internalID: -814903155234844052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5490ca9fd9c8e468e2ea6197445947
+      internalID: -2085559568444491457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c0ee624ab88e04e81d33a2467c7f52
+      internalID: -1582395608883428966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ec8bed90ad59744b73749fa1431e9d
+      internalID: 8725024234508295265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db706994c58334499e45fb32ba5354
+      internalID: 5278897266059958478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14754ca4c6dad049a4ec39b47a2e82c
+      internalID: -4626886112882942507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e132a92e4a3a8514eba913a4c2386cd3
+      internalID: 156711919627638477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f739b21e670ee604e8982e95f9dd2657
+      internalID: 3275678466825579784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6745a2a01a4aa4cba5c2ebfb6ade8c
+      internalID: -4393520631893499564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8c95cbadf8f36438781fbed9582182
+      internalID: 2569871698506356903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9518669b1168587429e3525727ee634b
+      internalID: 634354705669708994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba44b2a3ea64c4489cc34869a7be641
+      internalID: 2661411714984344993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed2589519bd96d44958200716e8333a
+      internalID: -3189853753121635222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6208f491ea033247a0a0b766e271b6f
+      internalID: -3192958308783750224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ede8964e0009cd41baeae9437e9e20c
+      internalID: -8204055590246817302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a3729ef65188444a84da1db8c08bad
+      internalID: -4457474658146762454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40941312e38104f4bace46c2d1f5204b
+      internalID: 4589730194986726425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995b8a0d92d06704f966abdf8684d9da
+      internalID: -613980035545191681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7d6c07a98c83146a8490ff1c80bcaf
+      internalID: -1302594521442359807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c22e8cadf36ef48887da5032b6a5ef
+      internalID: -9076241617075543371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_30
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f685457d5f5d284a81d896d9d62a994
+      internalID: -9054973171195859229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f93adfb4cee65448b02253d88943223
+      internalID: 52061080306620952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a3ac1c318def04f9b56b6ca64980f5
+      internalID: 4341379355002529597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddaa6797bea73444b3cc4434dc5b881
+      internalID: -4203619090451415448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abc0f716173e344792e76ed5e47cb9e
+      internalID: 6009140014354633711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b850dbdacb140042bac06a97901aea6
+      internalID: -1543726137376315562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74cce8aaaac7fa48aa47e4f7b9f9f9b
+      internalID: 2893761349240853845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69f3b4174b5af245a586e85e6735a11
+      internalID: 3514307980850675967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177f449cd1f2697459135c96c096aaf4
+      internalID: -8514677404856298382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d54479e689fe5f47a2867926a388b8f
+      internalID: 603910221188100021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3921a5940c6f5343b85bc734fd5044f
+      internalID: -299069973325266248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_41
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a528e6ebd35f954b8cb6963d7a99d29
+      internalID: -7846020670051474515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa181c308c6019f4c8ae73d6d179e0fb
+      internalID: 6398898777955678755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb5f73fe1827134894dadd9845ef900
+      internalID: -3115726476792437796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b712da4b524813a45960b6f76ca897d5
+      internalID: -5285535166221332290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd107208aaa1b4a898787029b44409
+      internalID: -4350616054559495012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cf36ae1921dca47920ef5f61b9ed50
+      internalID: 6505892311377649371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc39d4bc737d4c418ae0f0ee8824a29
+      internalID: 5847861460334490490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3116e6a749030a547b373a87fd3db6a5
+      internalID: -1120931589915729102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90ef5cad3d690f488808b2f03d26663
+      internalID: -8228619071994092925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_50
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d3981699c1326409312b1a30caacbc
+      internalID: -3456278894961373084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047653a4119d99f43a93ace7c58defdd
+      internalID: -6367538047502414276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_52
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa7bfd4a50150d46a24b5b82258b01d
+      internalID: -2085159998097752191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_53
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb3f03a385db354a83a0250b0629c28
+      internalID: 1946719878179455452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c27436b4f69cc44aadd6b109f328397
+      internalID: -1704238888237400820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df2d512a87430c438171bfe4fb4abd9
+      internalID: -6734400686727854673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eb9a216ed57bf41a5e738237881e72
+      internalID: -1488704735861827660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e07ef1183efa64449fb0d665e1feb7a
+      internalID: -9032448894950084942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff34537b2d5af21499a950b9526c6d9b
+      internalID: 1473796661682410851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6735d2026b6fed44da66a8961544e2ce
+      internalID: 1160642113086221747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0771c6ced7b090743a06ba073243092a
+      internalID: -2159427809623035007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda335b1b6b7b134c90bdf59e9f09ad0
+      internalID: 4091150222949152270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_62
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b996b9ba9b0774db9295f5e88652ed
+      internalID: 7786148131868531961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd28b6e7365bd4fbfe18585bddd7d3
+      internalID: -2955770609077857406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_64
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843ad4f2c603d844caf7a9a44e1fa087
+      internalID: -6350235937341891204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_65
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d482c25401c3409ed80a62f5d34ee
+      internalID: 5379094173367797219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6676d3e1b81e1642b1d423be3eb7722
+      internalID: -2805666518920005555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73720006e8fc5c4e88975814bdb79c8
+      internalID: 1487896463994546295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c985d999f84d4da43f28c9d2e91eb
+      internalID: 4393395950011707409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9254447fcf944e4391ee230a38574f6
+      internalID: -5061332200337671854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d945f712b879c144cb5518aa84bd5d5d
+      internalID: 8727274620635265587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dd84e0280b2c94ea34b47aff614896
+      internalID: -3027951229872563102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_72
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bd09662b1aaf64e86c42257c39e0cc
+      internalID: -5268400560219062250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_73
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9338f481dbe15840a0b96f39259fc4b
+      internalID: -6249030849482860482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_74
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c949b9f9fdd7be499283be53f1d9f36
+      internalID: -597856478614429563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_75
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40742254fdcc7743a3813fc5b1ae0bc
+      internalID: 7457711614314781874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_76
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437028325ae838548b4a084f18a8b2a1
+      internalID: 5371090637969344069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b29fd6abad074748a053f895be9ed0c
+      internalID: -6952873773120615493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607c0084ddac3ec40b4a4fe275eda34b
+      internalID: -1060664147003504003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a94683d7103bb34a97b30b90be6e10c
+      internalID: 6554982883426671557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef18e9b2833e5b94790380cb852e4592
+      internalID: 2645867260359695467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_81
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b965e6a0d8a29904b9c7c579494442f0
+      internalID: 5411417749155211256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068fac5522d9a7647aca19e598188c88
+      internalID: 5145636053250252780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc86befcf4a574492991a7dd6f7cd6
+      internalID: 887550902745172691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_84
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5033b6e812ac24891e469e7e3a4c86
+      internalID: -9107090438771610163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_85
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb6a276ba6a0ae47a626e3010f6a0b5
+      internalID: -9054201132918692521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_86
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7615663b115504ba62d39b69c762ec
+      internalID: -5942087125424602865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300cec89323a1c849ad136c667a4feb8
+      internalID: 6782616557159118820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cfd46a869090242a06329230943bef
+      internalID: -3244772672138687840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_89
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff717bbdda40cb4ebe5d69e59b31c52
+      internalID: 3335905426689503598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_90
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7171b85bca9d6994dbc9b40e42a3ac82
+      internalID: -3068876241672435545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_91
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba5b5a8bf3205f4bbdf0b5122c7367b
+      internalID: -7601343777600554371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e83dbb9426ab245a0c3e1c8630ffe4
+      internalID: -8191057389534379630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_93
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b64acc9bce19714f96b4fe6a22bff60
+      internalID: -5173530262765013041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d371cdc5ff0d243b19b0511020e261
+      internalID: 7812179639134109107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_95
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3112228ca363de4cb749db4344c5019
+      internalID: 4997316217874304306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: version-difference_96
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c1ba377719e74b8ff60bb7e5b96a8
+      internalID: -359456899833307458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 04196ac49792bb0469fdf44e01db222e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

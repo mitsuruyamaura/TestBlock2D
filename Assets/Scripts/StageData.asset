@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06a535456679b84cbc297add533829c, type: 3}
+  m_Name: StageData
+  m_EditorClassIdentifier: 
+  stageDatas:
+  - stageNum: 1
+    stagefileName: version-difference
+    startPosition: {x: 0.39, y: 4.13, z: 0}
+    ballSpeed: 75
+    minLineLength: 0.2
+    lineDuration: 0.5
+    maxLife: 100
+    gameTime: 120
+  - stageNum: 2
+    stagefileName: version-difference
+    startPosition: {x: 0.39, y: 4.13, z: 0}
+    ballSpeed: 100
+    minLineLength: 0.3
+    lineDuration: 0.4
+    maxLife: 80
+    gameTime: 100
+  - stageNum: 3
+    stagefileName: version-difference
+    startPosition: {x: 0.39, y: 4.13, z: 0}
+    ballSpeed: 120
+    minLineLength: 0.4
+    lineDuration: 0.3
+    maxLife: 60
+    gameTime: 80
